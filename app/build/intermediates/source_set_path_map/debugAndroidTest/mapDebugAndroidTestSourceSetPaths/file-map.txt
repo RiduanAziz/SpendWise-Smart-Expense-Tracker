@@ -1,0 +1,6 @@
+com.ra.set.test.app-core-1.6.1-0 C:\Users\USER\.gradle\caches\8.13\transforms\020964640d4e8562c7c0af54a51254de\transformed\core-1.6.1\res
+com.ra.set.test.app-androidTest-1 C:\Users\USER\AndroidStudioProjects\Smart-Expense-Tracker\app\build\generated\res\resValues\androidTest\debug
+com.ra.set.test.app-updated_navigation_xml-2 C:\Users\USER\AndroidStudioProjects\Smart-Expense-Tracker\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.ra.set.test.app-mergeDebugAndroidTestResources-3 C:\Users\USER\AndroidStudioProjects\Smart-Expense-Tracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.ra.set.test.app-mergeDebugAndroidTestResources-4 C:\Users\USER\AndroidStudioProjects\Smart-Expense-Tracker\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.ra.set.test.app-debugAndroidTest-5 C:\Users\USER\AndroidStudioProjects\Smart-Expense-Tracker\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

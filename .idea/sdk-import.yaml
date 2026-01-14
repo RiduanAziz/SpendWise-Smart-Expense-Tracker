@@ -1,0 +1,17 @@
+# Auto-generated placeholder for Android Studio sdk-import
+# If your project provides an `envSetup` Gradle task, run it to regenerate this file.
+# Adjust paths below to match your machine if needed.
+
+sdk:
+  # Path to Android SDK on this machine — update if different
+  path: "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk"
+  # Optional: list of sdk components or default toolchain
+  cmdline_tools: "latest"
+
+jdk:
+  # Path to JDK / JetBrains Runtime used by Android Studio
+  path: "C:\\Program Files\\Android\\Android Studio\\jbr"
+
+# Project Gradle wrapper hints (optional)
+gradle:
+  wrapper: "7.5"

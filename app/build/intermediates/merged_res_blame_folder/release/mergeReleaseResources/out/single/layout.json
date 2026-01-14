@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_dashboard.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/top_bar_card.xml",
+        "source": "com.ra.set.app-main-49:/layout/top_bar_card.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/item_category_summary.xml",
+        "source": "com.ra.set.app-main-49:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_reports.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/layout_piechart_breakdown.xml",
+        "source": "com.ra.set.app-main-49:/layout/layout_piechart_breakdown.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/bottom_nav.xml",
+        "source": "com.ra.set.app-main-49:/layout/bottom_nav.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_main.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/dialog_edit_profile.xml",
+        "source": "com.ra.set.app-main-49:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/item_expense.xml",
+        "source": "com.ra.set.app-main-49:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_profile.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_login.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_register.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_export.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_export.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_expenses.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_expenses.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/dialog_change_password.xml",
+        "source": "com.ra.set.app-main-49:/layout/dialog_change_password.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_edit_expense.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_edit_expense.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/dialog_reset_password_full.xml",
+        "source": "com.ra.set.app-main-49:/layout/dialog_reset_password_full.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeReleaseResources-47:/layout/activity_add_expense.xml",
+        "source": "com.ra.set.app-main-49:/layout/activity_add_expense.xml"
+    }
+]

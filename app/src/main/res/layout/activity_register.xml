@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEF2FF">
+
+    <!-- Card Container -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:maxWidth="440dp"
+        app:cardCornerRadius="24dp"
+        app:cardElevation="14dp"
+        app:cardUseCompatPadding="true"
+        app:cardBackgroundColor="@android:color/white"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintVertical_bias="0.48">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="28dp">
+
+            <!-- Icon -->
+            <ImageView
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:layout_gravity="center"
+                android:src="@drawable/ic_wallet"
+                android:background="@drawable/bg_icon"
+                android:padding="14dp"
+                android:contentDescription="@string/app_icon_desc"/>
+
+            <!-- App Name -->
+            <TextView
+                android:layout_marginTop="18dp"
+                android:text="@string/app_title"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="@color/accent_blue"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Subtitle -->
+            <TextView
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="24dp"
+                android:text="@string/create_account"
+                android:textSize="14sp"
+                android:textColor="#6B7280"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Email -->
+            <TextView
+                android:text="@string/email_label"
+                android:textColor="@color/accent_blue"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/etEmail"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:hint="@string/email_hint"
+                android:inputType="textEmailAddress"
+                android:autofillHints="emailAddress"
+                android:imeOptions="actionNext"
+                android:background="@drawable/bg_input"
+                android:padding="12dp"/>
+
+            <!-- Display Name -->
+            <TextView
+                android:layout_marginTop="16dp"
+                android:textColor="@color/accent_blue"
+                android:text="@string/display_name"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:hint="@string/display_name_hint"
+                android:inputType="textPersonName"
+                android:autofillHints="name"
+                android:imeOptions="actionNext"
+                android:background="@drawable/bg_input"
+                android:padding="12dp"/>
+
+            <TextView
+                android:layout_marginTop="4dp"
+                android:text="@string/display_name_help"
+                android:textSize="11sp"
+                android:textColor="#9CA3AF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Password -->
+            <TextView
+                android:layout_marginTop="16dp"
+                android:textColor="@color/accent_blue"
+                android:text="@string/password_label"
+                android:textStyle="bold"
+                android:textSize="13sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <EditText
+                android:id="@+id/etPassword"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:hint="@string/password_hint"
+                android:inputType="textPassword"
+                android:autofillHints="password"
+                android:imeOptions="actionDone"
+                android:background="@drawable/bg_input"
+                android:padding="12dp"/>
+
+            <TextView
+                android:layout_marginTop="4dp"
+                android:text="@string/password_help"
+                android:textSize="11sp"
+                android:textColor="#9CA3AF"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- Create Account Button -->
+            <Button
+                android:id="@+id/btnRegister"
+                android:layout_marginTop="24dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/create_account_button"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp"
+                android:backgroundTint="@color/accent_blue"
+                android:contentDescription="@string/create_account_button_desc"/>
+
+            <!-- Login Link -->
+            <TextView
+                android:id="@+id/tvLogin"
+                android:layout_marginTop="18dp"
+                android:gravity="center"
+                android:text="@string/already_have_account"
+                android:textSize="13sp"
+                android:textColor="@color/accent_blue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

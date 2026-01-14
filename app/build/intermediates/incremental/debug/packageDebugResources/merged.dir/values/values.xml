@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    <color name="accent_blue">#2563EB</color>
+    <color name="avatar_on_primary">#FFFFFF</color>
+    <color name="avatar_primary">#4E45E5</color>
+    <color name="black">#FF000000</color>
+    <color name="grey_600">#8A8A8A</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="tvOverviewTitle" type="id"/>
+    <string name="add_expense">Add Expense</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="all_categories">All Categories</string>
+    <string name="all_time">All Time</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+    <string name="amount_format">$%1$s</string>
+    <string name="amount_hint">0.00</string>
+    <string name="amount_label">Amount</string>
+    <string name="amount_negative_format">- $%1$s</string>
+    <string name="amount_placeholder">$0.00</string>
+    <string name="app_icon_desc">App icon</string>
+    <string name="app_name">SpendWise</string>
+    <string name="app_title">SpendWise</string>
+    <string name="cancel">Cancel</string>
+    <string name="category_label">Category</string>
+    <string name="change_password">Change Password</string>
+    <string name="confirm_delete_expense">Are you sure you want to delete this expense?</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="create_account_button_desc">Create account button</string>
+    <string name="current_date_placeholder">Day, MM DD YYYY</string>
+    <string name="date_hint">YYYY-MM-DD</string>
+    <string name="date_label">Date</string>
+    <string name="default_web_client_id" translatable="false">272649138848-1bojof6e84mcan0vsqegr3i8q59lkfpf.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="display_name">Display Name</string>
+    <string name="display_name_help">Spaces, emojis, and special characters are all allowed</string>
+    <string name="display_name_hint">Your Name</string>
+    <string name="edit_expense_title">Edit Expense</string>
+    <string name="edit_profile">Edit Name</string>
+    <string name="email_hint">your@email.com</string>
+    <string name="email_label">Email</string>
+    <string name="expense_added">Expense added</string>
+    <string name="expense_failed">Failed to add expense</string>
+    <string name="gcm_defaultSenderId" translatable="false">272649138848</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPOSf5RT9LDsJCjNYYfyIZoH26aeaBecs</string>
+    <string name="google_app_id" translatable="false">1:272649138848:android:fcf423b6e3802cebd98fc5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPOSf5RT9LDsJCjNYYfyIZoH26aeaBecs</string>
+    <string name="google_storage_bucket" translatable="false">smart-expense-tracker-3ce3f.firebasestorage.app</string>
+    <string name="invalid_amount">Invalid amount</string>
+    <string name="label_created_at">Created At</string>
+    <string name="label_email">Email</string>
+    <string name="label_name">Name</string>
+    <string name="label_password">Password</string>
+    <string name="label_user_id">User ID</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_export">Export</string>
+    <string name="nav_reports">Reports</string>
+    <string name="no_expenses">No expenses yet</string>
+    <string name="note_hint">Optional note about this expense</string>
+    <string name="note_label">Note</string>
+    <string name="overview">Overview</string>
+    <string name="password_help">At least 8 characters with uppercase, lowercase, and number</string>
+    <string name="password_hint">********</string>
+    <string name="password_label">Password</string>
+    <string name="profile_desc">Profile</string>
+    <string name="profile_title">Profile</string>
+    <string name="project_id" translatable="false">smart-expense-tracker-3ce3f</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="required_field">Required</string>
+    <string name="save">Save</string>
+    <string name="search_hint">Search notes…</string>
+    <string name="spending_breakdown">Spending Breakdown</string>
+    <string name="this_month_label">THIS MONTH</string>
+    <string name="today_label">TODAY</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="unable_to_create_expense">Unable to create expense</string>
+    <string name="update">Update</string>
+    <string name="view_all">View All</string>
+    <style name="Theme.SET" parent="Theme.Material3.Light.NoActionBar">
+
+        
+        <item name="colorPrimary">#4F46E5</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        
+        <item name="colorSecondary">#6366F1</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        
+        <item name="android:windowBackground">#EEF2FF</item>
+
+        
+        <item name="android:statusBarColor">#EEF2FF</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+</resources>

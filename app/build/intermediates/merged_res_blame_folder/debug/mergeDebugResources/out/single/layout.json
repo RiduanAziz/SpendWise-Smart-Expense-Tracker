@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\top_bar_card.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\top_bar_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\item_category_summary.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\item_category_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\dialog_edit_profile.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeDebugResources-47:/layout/activity_add_expense.xml",
+        "source": "com.ra.set.app-main-50:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\bottom_nav.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\dialog_change_password.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\layout_piechart_breakdown.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\layout_piechart_breakdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_edit_expense.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_export.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_expenses.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\dialog_reset_password_full.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_reset_password_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_add_expense.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_reports.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "com.ra.set.app-mergeDebugResources-47:/layout/activity_edit_expense.xml",
+        "source": "com.ra.set.app-main-50:/layout/activity_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">272649138848-1bojof6e84mcan0vsqegr3i8q59lkfpf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">272649138848</string>
+    <string name="google_api_key" translatable="false">AIzaSyCPOSf5RT9LDsJCjNYYfyIZoH26aeaBecs</string>
+    <string name="google_app_id" translatable="false">1:272649138848:android:fcf423b6e3802cebd98fc5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCPOSf5RT9LDsJCjNYYfyIZoH26aeaBecs</string>
+    <string name="google_storage_bucket" translatable="false">smart-expense-tracker-3ce3f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smart-expense-tracker-3ce3f</string>
+</resources>

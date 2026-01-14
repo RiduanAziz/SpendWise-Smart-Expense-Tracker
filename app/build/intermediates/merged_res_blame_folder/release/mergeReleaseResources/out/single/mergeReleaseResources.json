@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_expenses.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_expenses.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_profile.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_dashboard.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_arrow_down.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_search.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_bottom_nav.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/bottom_nav.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/xml_data_extraction_rules.xml.flat",
+        "source": "com.ra.set.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_item_category_summary.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/item_category_summary.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_card.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_reports.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_reports.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_card_bg.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/card_bg.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_category.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_category.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_export.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_export.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_avatar1.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_avatar1.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_wallet.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_avatar.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_main.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_input.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_edit_expense.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_edit_expense.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_rounded_price_tag.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/rounded_price_tag.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_login.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_chip.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_chip.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_add_expense.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_top_bar_card.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/top_bar_card.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/xml_backup_rules.xml.flat",
+        "source": "com.ra.set.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_gradient_card.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_gradient_card.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_reports.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_reports.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_icon.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_icon.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_expenses.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_expenses.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_dashboard.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_exports.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_exports.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_bg_circle_avatar.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/bg_circle_avatar.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_dialog_reset_password_full.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/dialog_reset_password_full.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_calendar.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_app.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_app.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_rounded_edittext_background.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/rounded_edittext_background.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.ra.set.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_dialog_edit_profile.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/menu_menu_profile.xml.flat",
+        "source": "com.ra.set.app-main-49:/menu/menu_profile.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_layout_piechart_breakdown.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/layout_piechart_breakdown.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_item_expense.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/item_expense.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_activity_register.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_ic_add.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/drawable_rounded_card_background.xml.flat",
+        "source": "com.ra.set.app-main-49:/drawable/rounded_card_background.xml"
+    },
+    {
+        "merged": "com.ra.set.app-release-48:/layout_dialog_change_password.xml.flat",
+        "source": "com.ra.set.app-main-49:/layout/dialog_change_password.xml"
+    }
+]

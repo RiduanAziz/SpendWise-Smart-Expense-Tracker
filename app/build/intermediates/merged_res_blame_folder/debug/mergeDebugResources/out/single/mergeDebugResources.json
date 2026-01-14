@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_exports.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_exports.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\menu_menu_profile.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\menu\\menu_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_dialog_change_password.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_dialog_reset_password_full.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_reset_password_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_arrow_down.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_arrow_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_circle_avatar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_circle_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_reports.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_rounded_price_tag.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\rounded_price_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_top_bar_card.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\top_bar_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_avatar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_avatar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_app.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_edit_expense.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.ra.set.app-debug-48:/layout_activity_edit_expense.xml.flat",
+        "source": "com.ra.set.app-main-50:/layout/activity_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_add_expense.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ra.set.app-debug-48:/layout_activity_add_expense.xml.flat",
+        "source": "com.ra.set.app-main-50:/layout/activity_add_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_expenses.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_rounded_card_background.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\rounded_card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_layout_piechart_breakdown.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\layout_piechart_breakdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_expenses.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_item_category_summary.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\item_category_summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_gradient_card.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_gradient_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_avatar1.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_avatar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_export.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_icon.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_dialog_edit_profile.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\dialog_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\layout_bottom_nav.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\layout\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_bg_category.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\bg_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\drawable_ic_reports.xml.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\drawable\\ic_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-debug-48:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\USER\\.gradle\\daemon\\8.13\\com.ra.set.app-main-50:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

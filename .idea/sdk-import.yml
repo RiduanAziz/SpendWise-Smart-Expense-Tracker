@@ -1,0 +1,5 @@
+# Minimal SDK import config placeholder to prevent YAML loader from returning null.
+# Generated manually. If your IDE supports envSetup, run the Gradle envSetup task to regenerate a full config.
+# Do not add unknown top-level properties.
+{}
+
