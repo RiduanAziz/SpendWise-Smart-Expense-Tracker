@@ -8,6 +8,15 @@
 ![Status](https://img.shields.io/badge/status-Production--Ready-informational)
 ![License](https://img.shields.io/badge/license-Academic-lightgrey)
 
+---
+
+
+
+Download the latest debug APK 📦 :
+
+[![SpendWise Logo](Icons/ic_wallet.svg)](app/build/outputs/apk/debug/SpendWise.apk)
+
+
 SpendWise is a professional-grade Android expense tracking application designed to help users record, analyze, and export personal financial data securely. Built with **Java** and **Firebase**, it offers real-time synchronization, offline support, and clean analytics suitable for both academic and real-world use.
 
 ---
